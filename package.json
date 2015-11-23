@@ -1,0 +1,16 @@
+{
+  "name": "douban-fm-shell",
+  "version": "1.0.0",
+  "main": "src/main.html",
+  "window": {
+    "icon": "src/img/logo.png",
+    "show": false,
+    "position": "center",
+    "toolbar": false,
+    "frame": true,
+    "min_width": 330,
+    "min_height": 360,
+    "width": 980,
+    "height": 550
+  }
+}
