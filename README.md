@@ -15,9 +15,6 @@
 
 # 下载地址
 
-- Mac 10.7+: [32bit](http://pan.baidu.com/s/1kTwCXxH) / [64bit](http://pan.baidu.com/s/1i38Su9n)
-- Windows: [32bit](http://pan.baidu.com/s/1c0hYjT2) / [64bit](http://pan.baidu.com/s/1sjMjn1j)
+- Mac: [32bit](http://pan.baidu.com/s/1kTwCXxH) / [64bit](http://pan.baidu.com/s/1i38Su9n)
 
 ![doubanfm](screenshot.png)
-
-> PS: windows 版本打开速度可能会有点慢。
