@@ -11,7 +11,7 @@
 
 怎么办？很遗憾...本工具并无法从根本上解决上面的问题，只是试图减少那么一丁点的麻烦，也就是 `不必开着网页听音乐`。
 
-> 注：douban-fm-shell 不等同于 k.f.storm 等客户端，它只是一个 douban.fm 的壳...
+> 注：douban-fm-shell 不同于 k.f.storm 等客户端，它只是一个 douban.fm 的壳...
 
 # 下载地址
 
@@ -20,4 +20,4 @@
 
 ![doubanfm](screenshot.png)
 
-> PS: windows 用户第一次打开可能会有点慢。
+> PS: windows 版本打开速度可能会有点慢。
